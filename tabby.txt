@@ -1,0 +1,270 @@
+
+
+
+
+<!-- -------------------- 
+ 
+ TABBY by basilries 
+  —   make sure to read my rules here —> https://toyhou.se/riez/characters/folder:6143481
+ 
+----------------- -->
+
+<div class="bg-faded" style="width:700px; height:356px; margin-left:auto; margin-right:auto; padding:20px;">
+
+<div class="row">
+
+   <!-- buttons --> 
+     <div class="col-md-2 px-4 mb-3" style="margin-left:-10px;">
+         <ul class="nav nav-tabs row card-header-tabs">
+             <li class="col-12 mb-1"><a class="btn bg-dark btn-block btn-outline-secondary active" style="height:60px;" data-toggle="tab" href="#one"><i class="fas fa-user" style="font-size:18px; margin-top:12px;"></i></a></li>
+             <li class="col-12 mb-1"><a class="btn bg-dark btn-block btn-outline-secondary" style="height:60px;" data-toggle="tab" href="#two"><i class="fas fa-list" style="font-size:18px; margin-top:12px;"></i></a></li>
+             <li class="col-12 mb-1"><a class="btn bg-dark btn-block btn-outline-secondary" style="height:60px;" data-toggle="tab" href="#three"><i class="fas fa-book" style="font-size:18px; margin-top:12px;"></i></a></li>
+             <li class="col-12 mb-1"><a class="btn bg-dark btn-block btn-outline-secondary" style="height:60px;" data-toggle="tab" href="#four"><i class="fas fa-heartbeat" style="font-size:18px; margin-top:12px;"></i></a></li>
+             <li class="col-12 mb-1"><a class="btn bg-dark btn-block btn-outline-secondary" style="height:60px;" data-toggle="tab" href="#five"><i class="fas fa-pen-nib" style="font-size:18px; margin-top:12px;"></i></a></li>
+          </ul>
+     </div>
+
+   <!-- main content --> 
+     <div style="width:400px; margin-left:-15px;">
+     <div class="tab-content">
+
+<!-- basics -->
+
+      <div class="tab-pane fade active show" id="one">
+         <div class="card p-3" style="height:316px; overflow:auto;">
+
+             <p class="text-secondary" style="font-weight:700; font-size:20px; text-align:right; padding-bottom:10px;">ABOUT</p>
+             <hr style="position:absolute; width:250px;">
+
+            <!-- list -->
+             <div>
+               <div style="padding-top:6px; padding-bottom:6px;">
+                 <p class="text-secondary" style="font-weight:700;">NAME</p>
+                 <p style="margin-top:-40px;text-align:right;">full name</p>
+               </div>
+               <hr style="margin:2px;">
+               <div style="padding-top:6px; padding-bottom:6px;">
+                 <p class="text-secondary" style="font-weight:700;">NICKNAME(S)</p>
+                 <p style="margin-top:-40px;text-align:right;">nickname(s)</p>
+               </div>
+               <hr style="margin:2px;">
+               <div style="padding-top:6px; padding-bottom:6px;">
+                 <p class="text-secondary" style="font-weight:700;">GENDER</p>
+                 <p style="margin-top:-40px;text-align:right;">gender (pro/nouns)</p>
+               </div>
+               <hr style="margin:2px;">
+               <div style="padding-top:6px; padding-bottom:6px;">
+                 <p class="text-secondary" style="font-weight:700;">AGE</p>
+                 <p style="margin-top:-40px;text-align:right;">age (mm/dd/yy)</p>
+               </div>
+               <hr style="margin:2px;">
+               <div style="padding-top:6px; padding-bottom:6px;">
+                 <p class="text-secondary" style="font-weight:700;">RACE</p>
+                 <p style="margin-top:-40px;text-align:right;">or species</p>
+               </div>
+               <hr style="margin:2px;">
+               <div style="padding-top:6px; padding-bottom:6px;">
+                 <p class="text-secondary" style="font-weight:700;">ROLE</p>
+                 <p style="margin-top:-40px;text-align:right;">or occupation</p>
+               </div>
+             </div>
+            <!-- desc -->
+            <div style="margin-top:30px;">
+                 <p>write a short description about the character here.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+             </div>
+         </div>
+      </div>
+
+<!-- more info -->
+
+      <div class="tab-pane fade" id="two">
+         <div class="card p-3" style="height:316px; overflow:auto;">
+
+             <p class="text-secondary" style="font-weight:700; font-size:20px; text-align:right; padding-bottom:10px;">EXTRAS</p>
+             <hr style="position:absolute; width:240px;">
+
+             <div class="row no-gutters">
+             <!-- likes n dislikes -->
+               <ul class="fa-ul col-4 p-1">
+                 <li><span class="fa-li"><i class="fas fa-heart"></i></span>like</li>
+                 <li><span class="fa-li"><i class="fas fa-heart"></i></span>like</li>
+                 <li><span class="fa-li"><i class="fas fa-heart"></i></span>like</li>
+                 <li><span class="fa-li"><i class="fas fa-heart"></i></span>like</li>
+                 <li><span class="fa-li"><i class="fas fa-heart"></i></span>like</li>
+               </ul>
+               <ul class="fa-ul col-4 p-1">
+                 <li><span class="fa-li"><i class="fas fa-heart-broken"></i></span>dislike</li>
+                 <li><span class="fa-li"><i class="fas fa-heart-broken"></i></span>dislike</li>
+                 <li><span class="fa-li"><i class="fas fa-heart-broken"></i></span>dislike</li>
+                 <li><span class="fa-li"><i class="fas fa-heart-broken"></i></span>dislike</li>
+                 <li><span class="fa-li"><i class="fas fa-heart-broken"></i></span>dislike</li>
+               </ul>
+             <!-- trivia -->
+             <div><hr style="margin:2px;"><br>
+             <p class="text-secondary" style="font-weight:700; font-size:17px;">TRIVIA</p>
+             <ul class="fa-ul">
+                 <li><span class="fa-li">➤</span>insert some fun facts about your character here</li>
+                 <li><span class="fa-li">➤</span>add as many as you want</li>
+                 <li><span class="fa-li">➤</span>this box will scroll forever</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+             </ul>
+             </div>
+             </div>
+         </div>
+      </div>
+
+<!-- story -->
+
+      <div class="tab-pane fade" id="three">
+         <div class="card p-3" style="height:316px; overflow:auto;">
+
+             <p class="text-secondary" style="font-weight:700; font-size:20px; text-align:right; padding-bottom:10px;">STORY</p>
+             <hr style="position:absolute; width:260px;">
+
+             <div>
+                   <p class="text-secondary" style="text-align:left; font-weight:700; font-size:18px; margin-left:6px;"><span style="margin-left:10px;">
+
+                     HEADER
+
+                     </span><i class="fas fa-star pull-left" style="font-size:20px;"></i></p>
+
+                 <p>write some stuff about their story here Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                 <hr>
+                 </div>
+
+             <div style="text-align:right;">
+                 <p class="text-secondary" style="text-align:right; font-weight:700; font-size:18px;"><span style="margin-right:10px;">
+
+                     HEADER
+
+                     </span><i class="fas fa-star pull-right" style="font-size:20px;"></i></p>
+
+                 <p>write some more stuff about their story here Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                 <hr>
+                 </div>
+             <div>
+                   <p class="text-secondary" style="text-align:left; font-weight:700; font-size:18px; margin-left:6px;"><span style="margin-left:10px;">
+
+                     HEADER
+
+                     </span><i class="fas fa-star pull-left" style="font-size:20px;"></i></p>
+
+                 <p>write even more stuff about their story here Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                 </div>
+         </div>
+      </div>
+
+<!-- relationships -->
+
+      <div class="tab-pane fade" id="four">
+         <div class="card p-3" style="height:316px; overflow:auto;">
+
+             <p class="text-secondary" style="font-weight:700; font-size:20px; text-align:right; padding-bottom:10px;">RELATIONSHIPS</p>
+             <hr style="position:absolute; width:170px;">
+
+             <!-- character -->
+             <div style="padding-top:0px;">
+                 <img src="LINK HERE" style="height:100px; width:100px; border-radius:4px;">
+                 <div class="bg-faded" style="margin-top:-100px; margin-left:110px;">
+                     <p style="margin-left:10px;">
+                         <span class="text-secondary" style="font-weight:700; font-size:18px;">NAME</span>
+                         <span class="text-secondary pull-right" style="font-style: italic; padding:2px; margin-right:4px;">relationship w/ char</span><br>
+                     </p>
+                     <p style="margin-top:-15px; margin-left:10px; max-height:150px; overflow:auto; padding:4px;">
+                         type a description of their relationship. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+                     </p>
+                 </div>
+             </div>
+
+             <!-- character -->
+             <div style="padding-top:35px;">
+                 <img src="LINK HERE" style="height:100px; width:100px; border-radius:4px;">
+                 <div class="bg-faded" style="margin-top:-100px; margin-left:110px;">
+                     <p style="margin-left:10px;">
+                         <span class="text-secondary" style="font-weight:700; font-size:18px;">NAME</span>
+                         <span class="text-secondary pull-right" style="font-style: italic; padding:2px; margin-right:4px;">relationship w/ char</span><br>
+                     </p>
+                     <p style="margin-top:-15px; margin-left:10px; max-height:150px; overflow:auto; padding:4px;">
+                         heres an example of a shorter description! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio.
+                     </p>
+                 </div>
+             </div>
+
+             <!-- character -->
+             <div style="padding-top:35px;">
+                 <img src="LINK HERE" style="height:100px; width:100px; border-radius:4px;">
+                 <div class="bg-faded" style="margin-top:-100px; margin-left:110px;">
+                     <p style="margin-left:10px;">
+                         <span class="text-secondary" style="font-weight:700; font-size:18px;">NAME</span>
+                         <span class="text-secondary pull-right" style="font-style: italic; padding:2px; margin-right:4px;">relationship w/ char</span><br>
+                     </p>
+                     <p style="margin-top:-15px; margin-left:10px; max-height:150px; overflow:auto; padding:4px;">
+                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio.
+                     </p>
+                 </div>
+             </div>
+
+         </div>
+      </div>
+
+<!-- design -->
+
+      <div class="tab-pane fade" id="five">
+         <div class="card p-3" style="height:316px; overflow:auto;">
+
+             <p class="text-secondary" style="font-weight:700; font-size:20px; text-align:right; padding-bottom:10px;">DESIGN</p>
+             <hr style="position:absolute; width:240px;">
+
+             <p style="padding-bottom:30px;">
+
+                 write a summary of your characters design here! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. 
+             </p>
+
+            <!-- ref sheet -->
+             <img src="LINK HERE">
+             <br>
+
+            <!-- design notes -->
+             <ul class="fa-ul">
+                 <li><span class="fa-li">➤</span>design notes go here</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+                 <li><span class="fa-li">➤</span>Lorem ipsum</li>
+             </ul>
+
+
+         </div>
+      </div>
+
+     </div>
+     </div>
+
+   <!-- bottom row -->
+     <div class="bg-dark" style="width:400px; height:40px; position:absolute; margin-top:320px; margin-left:130px; z-index:100; padding:7px; font-size:17px;">
+         <p class="text-light" style="text-align:right; padding-right:10px;">
+             CHARACTER NAME
+         </p>
+         <i class="fas fa-star" style="position:absolute; margin-top:-24px; font-size:22px;"></i>
+     </div>
+
+   <!-- pagedoll -->
+     <img src="LINK HERE" style="position:absolute; height:420px; margin-left:460px; margin-top:-50px; pointer-events:none;">
+
+   <!-- decorative borders -->
+   <div style="border-left:#606060 2px dashed; height:280px; width:4px; position:absolute; margin-top:-10px; margin-left:4px; pointer-events: none;"></div>
+   <div style="border-top:#606060 2px dashed; height:4px; width:300px; position:absolute; margin-top:-10px; margin-left:4px; pointer-events: none;"></div> 
+   <div style="border-right:#606060 2px dashed; border-bottom:#606060 2px dashed; height:40px; width:370px; position:absolute; margin-top:330px; margin-left:170px; pointer-events: none;"></div> 
+
+</div>
+
+   <!-- CREDIT - DO NOT REMOVE -->
+         <div><a href="https://toyhou.se/riez" class="text-secondary tooltipster" title="code by basilries" target="_blank"><i class="fas fa-code" style="position:absolute; margin-top:-5px; margin-left:-15px; font-size:0.8rem; z-index:100;"></i></a></div>
+
+</div> 
+
