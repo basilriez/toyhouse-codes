@@ -1,0 +1,61 @@
+
+
+ <!-- TINY STARS by basilries - custom colors version
+     use find and replace (ctrl+f) to search for hex codes (#85b05b) and replace with your color -->
+
+<div style="background-image:url(LINK HERE); padding:20px; margin:auto; width:560px; height:254px; background-attachment:fixed;">
+
+   <!-- STARS -->
+     <div style="color:#85b05b">
+         <i class="fas fa-ufo fa-rotate-by" style="position:absolute; margin-top:218px; margin-left:-30px; font-size:1.8rem; --fa-rotate-angle: -15deg;"></i>
+
+         <i class="fa-sharp fa-solid fa-star fa-rotate-90" style="position:absolute; margin-top:-30px; margin-left:0px; font-size:1.3rem"></i>
+         <i class="fa-sharp fa-solid fa-star fa-rotate-180" style="position:absolute; margin-top:10px; margin-left:-35px; font-size:1.7rem"></i>
+         <i class="fa-sharp fa-solid fa-star fa-rotate-90" style="position:absolute; margin-top:50px; margin-left:-10px; font-size:0.6rem"></i>
+
+         <i class="fa-sharp fa-solid fa-star fa-rotate-180" style="position:absolute; margin-top:215px; margin-left:130px; font-size:0.6rem"></i>
+         <i class="fa-sharp fa-solid fa-star fa-rotate-270" style="position:absolute; margin-top:215px; margin-left:170px; font-size:1.2rem"></i>
+         <i class="fa-sharp fa-solid fa-star fa-rotate-180" style="position:absolute; margin-top:220px; margin-left:235px; font-size:1.7rem"></i>
+         <i class="fa-sharp fa-solid fa-star fa-rotate-90" style="position:absolute; margin-top:200px; margin-left:290px; font-size:1rem"></i>
+         <i class="fa-sharp fa-solid fa-star fa-rotate-180" style="position:absolute; margin-top:215px; margin-left:330px; font-size:0.6rem"></i>
+     </div>
+    
+     <div style="height:212px; width:510px; margin:auto; border:1px dashed #505050; padding:5px;">
+     <div class="bg-faded" style="height:200px; width:500px; margin:auto;">
+
+   <!-- SOCIAL MEDIA LINKS -->
+
+     <div style="position:absolute; margin-top:14px; margin-left:20px; width:10px;">
+         <span style="font-size:1.3rem"><a style="color:#85b05b" href="LINK HERE"><i class="fab fa-discord"></i></a></span>
+         <span style="font-size:1.6rem"><a style="color:#85b05b" href="LINK HERE"><i class="fab fa-instagram"></i></a></span>
+         <span style="font-size:1.5rem"><a style="color:#85b05b" href="LINK HERE"><i class="fab fa-twitter"></i></a></span>
+         <span style="font-size:1.4rem"><a style="color:#85b05b" href="LINK HERE"><i class="fab fa-youtube"></i></a></span>
+         <span style="font-size:1.4rem"><a style="color:#85b05b" href="LINK HERE"><i class="fas fa-paintbrush-pencil"></i></a></span>
+     </div>
+
+   <!-- USERNAME -->
+   
+     <p style="color:#85b05b; position:absolute; margin-top:2px; margin-left:65px; z-index:100; font-size:16px; font-weight:700;"><span>@</span>username</p>
+
+     <div style="height:1px; width:190px; border:1px dashed #606060; position:absolute; margin-top:14px; margin-left:180px;"></div>
+     <div style="height:145px; width:1px; border:1px dashed #606060; position:absolute; margin-top:40px; margin-left:70px;"></div>
+
+    <!-- INNER CONTENT -->
+
+         <div style="height:170px; width:300px; background-color:rgb(10,10,10,0.2); position:absolute; margin-left:70px; margin-top:15px; padding:10px; overflow:auto;">
+                 <p>text text text this box scrolls, but try to keep it somewhat short. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+        </div>
+
+    <!-- PAGEDOLL -->
+         <div style="position:absolute; margin-left:335px; margin-top:-25px;"><img src="LINK HERE" style="height:230px;"></div>
+
+
+
+   <!-- CREDIT - DO NOT REMOVE -->
+         <a href="https://toyhou.se/riez" target="_blank"><i class="fas fa-bug" style=" color:#85b05b; position:absolute; margin-top:210px; margin-left:510px; font-size:0.8rem; z-index:100;" data-toggle="tooltip" title="code by basilries"></i></a>
+
+     </div>
+     </div>
+
+</div>
+
