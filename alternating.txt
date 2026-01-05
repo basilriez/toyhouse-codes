@@ -1,0 +1,215 @@
+
+
+
+<!-- -------------------- 
+ 
+ ALTERNATING by basilries 
+  —   make sure to read my rules here —> https://toyhou.se/riez/characters/folder:6143481
+  
+  —————— COLOR KEY ——————
+   use find and replace (ctrl+f) to search for a color and replace it
+   — #008181 — accent color
+ 
+   — #202020 — darker background color
+   — #353535 — outline color
+
+   — #d9d9d9 — primary text color
+   — #808080 — secondary text color
+   — #505050 — tertiary text color
+
+   — #b30000 — red
+   — #ff9898 — pink
+   — #0b0b0b — black
+  ————————————————————————
+
+----------------- -->
+
+
+
+<!-- backdrop -->
+<div style="width:706px; height:686px; margin:auto; margin-top:30px; padding:20px; padding-left:25px; font-family: Courier New, sans-serif; font-weight:700;
+     background-image:url('LINK HERE'); background-size:710px;">
+
+<!-- pagedoll -->
+<div style="position:absolute; 
+     margin-left:-70px; margin-top:-50px;">
+   <!-- change pagedoll image and size here -->
+     <img src="LINK HERE" style="height:490px;">
+</div>
+
+<!-- main content box -->
+<div style="background-color:#202020; border:1px solid #353535; margin:auto; margin-left:150px; width:500px; padding:8px;">
+    <!-- summary -->
+    <div style="position:absolute; width:270px; height:316px; overflow:auto; margin-left:210px;">
+        <div style="color:#d9d9d9; font-size:12px; width:256px; height:400px;">
+
+         <!-- quote -->
+         <span style="color:#505050; font-size:15px; font-style: italic;">" <span style="color:#808080;">QUOTE</span> "</span>
+
+         <p style="margin-top:10px;">a concise summary of the character. write as much as you want, this box scrolls! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. </p>
+         
+        <hr style="border-color:#505050; width:100%;"> <p style="color:#808080; font-size:16px;">Random Header</p>
+        <p style="margin-top:10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus.</p>
+        <p>Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+
+        <hr style="border-color:#505050; width:100%;"> <p style="color:#808080; font-size:16px;">Random Header 2</p>
+        <p style="margin-top:10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus.</p>
+        </div>
+    </div>
+    <!-- content boxes -->
+    <div>
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:4px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">NAME</p>
+             <p style="color:#d9d9d9; margin-top:-40px; text-align:right;">?????? ??????</p>
+         </div>
+     </div>
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:4px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">AGE</p>
+             <p style="color:#d9d9d9; margin-top:-40px; text-align:right;">? sweeps</p>
+         </div>
+     </div>
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:4px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">GENDER</p>
+             <p style="color:#d9d9d9; margin-top:-40px; text-align:right;">content</p>
+         </div>
+     </div>
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:10px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">PRONOUNS</p>
+             <p style="color:#d9d9d9; margin-top:-40px; text-align:right;">pro/nouns</p>
+         </div>
+     </div>
+     <!-- -->
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:4px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">CASTE</p>
+             <p style="color:#d9d9d9; margin-top:-38px; text-align:right;">content</p>
+         </div>
+     </div>
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:4px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">LUNAR SWAY</p>
+             <p style="color:#d9d9d9; margin-top:-38px; text-align:right;">content</p>
+         </div>
+     </div>
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:10px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">TITLE</p>
+             <p style="color:#d9d9d9; margin-top:-38px; text-align:right;">???? of ????</p>
+         </div>
+     </div>
+     <!-- -->
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:4px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">SPECIBI</p>
+             <p style="color:#d9d9d9; margin-top:-38px; text-align:right;">???kind</p>
+         </div>
+     </div>
+     <div style="background-color:#353535; padding:0px 6px 0px 6px; margin-bottom:4px; width:200px; border:1px solid #505050;">
+         <div style="padding-top:4px; padding-bottom:4px;">
+             <p style="color:#008181;">MODUS</p>
+             <p style="color:#d9d9d9; margin-top:-38px; text-align:right;">content</p>
+         </div>
+     </div>
+    </div>
+</div>
+
+<!-- relationships box -->
+<div style="background-color:#202020; border:1px solid #353535; margin:auto; margin-top:10px; margin-left:165px; width:500px; height:158px; overflow:auto; padding:8px;">
+
+   <!-- character - copy and paste this div to add more characters -->
+     <div style="height:148px; width:474px;">
+         <!-- image -->
+         <img src="LINK HERE" style="height:140px;">
+         <!-- descriptors -->
+         <div style="margin-top:-140px; margin-left:140px;">
+         <p style="margin-left:10px;">
+             <span style="color:#808080; font-weight:700; font-size:18px;">?????? ??????</span>
+             <span class="pull-right" style="padding:2px; margin-right:4px;">
+                 <!-- icon -->
+                 <i class="fas fa-heart" style="color:#b30000; font-size:18px;"></i>
+             </span><br>
+         </p>
+         <!-- description -->
+         <p style="color:#d9d9d9; font-size:12px; margin-top:-15px; margin-left:10px; max-height:112px; overflow:auto; padding:4px;">
+             a description of their relationship. the box can scroll, so feel free to add as many characters as you want! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus.
+         </p>
+     </div>
+     </div>
+
+   <!-- character -->
+     <div style="height:148px; width:474px;">
+         <!-- image -->
+         <img src="LINK HERE" style="height:140px;">
+         <!-- descriptors -->
+         <div style="margin-top:-140px; margin-left:140px;">
+         <p style="margin-left:10px;">
+             <span style="color:#808080; font-weight:700; font-size:18px;">?????? ??????</span>
+             <span class="pull-right" style="padding:2px; margin-right:4px;">
+                 <!-- icon -->
+                 <i class="fas fa-diamond pull-left" style="color:#ff9898; font-size:18px;"></i></span><br>
+         </p>
+         <!-- description -->
+         <p style="color:#d9d9d9; font-size:12px; margin-top:-15px; margin-left:10px; max-height:112px; overflow:auto; padding:4px;">
+             a description of their relationship. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus.
+         </p>
+     </div>
+     </div>
+
+   <!-- character - paste duplicated div ABOVE this line -->
+     <div style="height:148px; width:474px; margin-bottom:-10px;">
+         <!-- image -->
+         <img src="LINK HERE" style="height:140px;">
+         <!-- descriptors -->
+         <div style="margin-top:-140px; margin-left:140px;">
+         <p style="margin-left:10px;">
+             <span style="color:#808080; font-weight:700; font-size:18px;">?????? ??????</span>
+             <span class="pull-right" style="padding:2px; margin-right:4px;">
+                 <!-- icon -->
+                 <i class="fas fa-spade pull-left" style="color:#0b0b0b; font-size:18px;"></i></span><br>
+         </p>
+         <!-- description -->
+         <p style="color:#d9d9d9; font-size:12px; margin-top:-15px; margin-left:10px; max-height:112px; overflow:auto; padding:4px;">
+             a description of their relationship. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus.
+         </p>
+     </div>
+</div>
+     </div>
+
+<!-- design -->
+<div>
+    <!-- sprite box --> 
+     <div style="background-color:#202020; border:1px solid #353535; margin:auto; margin-top:-80px; margin-left:-10px; width:166px; height:220px; overflow:auto; padding:8px; overflow:hidden;">
+        <!-- change sprite image & size here -->
+         <img src="LINK HERE"
+         style="height:200px; 
+         position:absolute; margin:auto;">
+     </div>
+     <!-- notes box -->
+     <div style="background-color:#202020; border:1px solid #353535; border-left:none; margin:auto; margin-top:-130px; margin-left:155px; width:380px; height:130px; padding:8px;">
+         <div style="color:#d9d9d9; max-height:113px; width:370px; overflow:auto; font-size:12px;">
+             <p style="color:#808080; font-size:16px; text-align:right; margin-right:25px;">TRIVIA & NOTES <hr style="margin-top:-12px; margin-left:-10px; width:210px;"></p>
+             <div style="width:350px;"><ul class="fa-ul">
+                 <li><span class="fa-li">==></span>⠀design notes or fun facts can go here</li>
+                 <li><span class="fa-li">==></span>⠀add as many as youd like</li>
+                 <li><span class="fa-li">==></span>⠀this box scrolls too</li>
+                 <li><span class="fa-li">==></span>⠀Lorem ipsum</li>
+                 <li><span class="fa-li">==></span>⠀Lorem ipsum</li>
+                 <li><span class="fa-li">==></span>⠀Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</li>
+                 <li><span class="fa-li">==></span>⠀hi</li>
+             </ul></div>
+         </div>
+     </div>
+</div>
+
+<!-- symbol - if your character has a symbol put it here, otherwise you can leave this blank -->
+<img src="LINK HERE" style="height:120px; position:absolute; margin-top:-120px; margin-left:550px;">
+
+   <!-- CREDIT - DO NOT REMOVE -->
+         <div><a href="https://toyhou.se/riez" class="tooltipster" title="code by basilries" target="_blank"><i class="fas fa-code" style="position:absolute; margin-top:4px; margin-left:-20px; font-size:0.8rem; color:#008181; z-index:100;"></i></a></div>
+
+</div>
+
